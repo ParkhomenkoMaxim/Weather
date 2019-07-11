@@ -1,0 +1,25 @@
+.footerBottom {
+	background-color: #324191;
+}
+
+.footerTop {
+	background-color: #3f51b5;
+}
+
+.fontUp {
+	color: #ffffff;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.fontUp:hover {
+	color: yellow;
+}
+
+.link {
+	color:gray;
+}
+
+.link:hover {
+	color:yellow;
+}

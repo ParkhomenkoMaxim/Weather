@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.Киев {
+ background: url(./images/Киев.jpg); 
+ background-size: cover; 	
+}
+
+.Львов {
+ background: url(./images/Львов.jpg);	
+}
+
+.Харьков {
+ background: url(./images/Харьков.jpg);	
+ background-size: cover; 
+}
+
+.Житомир {
+ background: url(./images/Житомир.jpg);	
+ background-size: cover; 
+}
+
+.overlay{
+position: absolute;
+min-width: 100%;
+min-height: 92%;
+background: rgba(244, 244, 244, 0.30);
+}
+
+.header {
+	background-color: #4d7bc1;
+}
